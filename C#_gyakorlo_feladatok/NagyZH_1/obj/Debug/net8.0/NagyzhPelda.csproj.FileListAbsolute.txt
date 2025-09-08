@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\bin\Debug\net8.0\NagyzhPelda.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\bin\Debug\net8.0\NagyzhPelda.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\bin\Debug\net8.0\NagyzhPelda.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\bin\Debug\net8.0\NagyzhPelda.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\bin\Debug\net8.0\NagyzhPelda.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\obj\Debug\net8.0\NagyzhPelda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\obj\Debug\net8.0\NagyzhPelda.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\obj\Debug\net8.0\NagyzhPelda.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\obj\Debug\net8.0\NagyzhPelda.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\obj\Debug\net8.0\NagyzhPelda.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\obj\Debug\net8.0\refint\NagyzhPelda.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\obj\Debug\net8.0\NagyzhPelda.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\obj\Debug\net8.0\NagyzhPelda.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-1-Alapkod\NagyzhPelda\obj\Debug\net8.0\ref\NagyzhPelda.dll

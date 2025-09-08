@@ -1,0 +1,25 @@
+{
+  "$type": "System.Collections.Generic.List`1[[IVehicle7_onallo.IVehicle, IVehicle7_onallo]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "IVehicle7_onallo.Car, IVehicle7_onallo",
+      "Brand": "Toyota",
+      "Speed": 120
+    },
+    {
+      "$type": "IVehicle7_onallo.Truck, IVehicle7_onallo",
+      "Brand": "Volvo",
+      "LoadCapacity": 5000
+    },
+    {
+      "$type": "IVehicle7_onallo.Car, IVehicle7_onallo",
+      "Brand": "Toyota",
+      "Speed": 120
+    },
+    {
+      "$type": "IVehicle7_onallo.Truck, IVehicle7_onallo",
+      "Brand": "Volvo",
+      "LoadCapacity": 5000
+    }
+  ]
+}

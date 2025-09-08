@@ -1,0 +1,20 @@
+[
+  {
+    "Brand": "Toyota",
+    "Model": "Corolla",
+    "LicensePlate": "ABC-123",
+    "Year": 2020
+  },
+  {
+    "Brand": "Ford",
+    "Model": "Focus",
+    "LicensePlate": "XYZ-789",
+    "Year": 2019
+  },
+  {
+    "Brand": "Mazda",
+    "Model": "3",
+    "LicensePlate": "DEF-456",
+    "Year": 2021
+  }
+]

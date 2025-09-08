@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\bin\Debug\net8.0\9_Event9_Kozos.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\bin\Debug\net8.0\9_Event9_Kozos.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\bin\Debug\net8.0\9_Event9_Kozos.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\bin\Debug\net8.0\9_Event9_Kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\bin\Debug\net8.0\9_Event9_Kozos.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\obj\Debug\net8.0\9_Event9_Kozos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\obj\Debug\net8.0\9_Event9_Kozos.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\obj\Debug\net8.0\9_Event9_Kozos.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\obj\Debug\net8.0\9_Event9_Kozos.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\obj\Debug\net8.0\9_Event9_Kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\obj\Debug\net8.0\refint\9_Event9_Kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\obj\Debug\net8.0\9_Event9_Kozos.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\obj\Debug\net8.0\9_Event9_Kozos.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\9_Event9_Kozos_alapkod\9_Event9_Kozos\obj\Debug\net8.0\ref\9_Event9_Kozos.dll

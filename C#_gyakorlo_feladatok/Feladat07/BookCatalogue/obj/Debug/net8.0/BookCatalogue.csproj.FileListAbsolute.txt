@@ -1,0 +1,14 @@
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\bin\Debug\net8.0\BookCatalogue.exe
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\bin\Debug\net8.0\BookCatalogue.deps.json
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\bin\Debug\net8.0\BookCatalogue.runtimeconfig.json
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\bin\Debug\net8.0\BookCatalogue.dll
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\bin\Debug\net8.0\BookCatalogue.pdb
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\obj\Debug\net8.0\BookCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\obj\Debug\net8.0\BookCatalogue.AssemblyInfoInputs.cache
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\obj\Debug\net8.0\BookCatalogue.AssemblyInfo.cs
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\obj\Debug\net8.0\BookCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\obj\Debug\net8.0\BookCatalogue.dll
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\obj\Debug\net8.0\refint\BookCatalogue.dll
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\obj\Debug\net8.0\BookCatalogue.pdb
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\obj\Debug\net8.0\BookCatalogue.genruntimeconfig.cache
+C:\Users\brigi\source\repos\BookCatalogue\BookCatalogue\obj\Debug\net8.0\ref\BookCatalogue.dll

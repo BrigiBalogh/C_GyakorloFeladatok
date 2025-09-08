@@ -1,0 +1,40 @@
+﻿
+---All products---
+Chair CH-oak-x321 - Oak, 0.86 kg, 50x120x40 cm, long-back style: 25000 HUF
+Table TB-pine-234k - Pine, 5.65 kg, 80x90x130 cm, 4 legs: 78000 HUF
+Table WR-mahogany-k4m6 - Mahogany, 23.62 kg, 120x190x60 cm, 3 doors with mirror: 218500 HUF
+Table WR-pine-32k6 - Pine, 18.54 kg, 80x160x55 cm, 2 doors: 156500 HUF
+Chair CH-cedar-3214 - Cedar, 1.23 kg, 60x60x50 cm, short-round style: 16000 HUF
+Table TB-cherry-234k - Cherry, 4.65 kg, 100x800x180 cm, 6 adjustable legs: 112000 HUF
+
+---Current stock---
+Table WR-mahogany-k4m6 - Mahogany, 23.62 kg, 120x190x60 cm, 3 doors with mirror: 218500 HUF (3 available)
+Chair CH-cedar-3214 - Cedar, 1.23 kg, 60x60x50 cm, short-round style: 16000 HUF (12 available)
+Table TB-pine-234k - Pine, 5.65 kg, 80x90x130 cm, 4 legs: 78000 HUF (6 available)
+Table TB-cherry-234k - Cherry, 4.65 kg, 100x800x180 cm, 6 adjustable legs: 112000 HUF (3 available)
+Chair CH-oak-x321 - Oak, 0.86 kg, 50x120x40 cm, long-back style: 25000 HUF (12 available)
+Table WR-pine-32k6 - Pine, 18.54 kg, 80x160x55 cm, 2 doors: 156500 HUF (6 available)
+
+Price of order 1: 375500
+Price of order 2: 327000
+Price of order 3: 1038000
+
+Order 1 delivered? True
+Order 2 delivered? True
+Order 3 delivered? False
+---Current stock after deliveries---
+Table WR-mahogany-k4m6 - Mahogany, 23.62 kg, 120x190x60 cm, 3 doors with mirror: 218500 HUF (2 available)
+Chair CH-cedar-3214 - Cedar, 1.23 kg, 60x60x50 cm, short-round style: 16000 HUF (8 available)
+Table TB-pine-234k - Pine, 5.65 kg, 80x90x130 cm, 4 legs: 78000 HUF (4 available)
+Table TB-cherry-234k - Cherry, 4.65 kg, 100x800x180 cm, 6 adjustable legs: 112000 HUF (2 available)
+Chair CH-oak-x321 - Oak, 0.86 kg, 50x120x40 cm, long-back style: 25000 HUF (6 available)
+Table WR-pine-32k6 - Pine, 18.54 kg, 80x160x55 cm, 2 doors: 156500 HUF (6 available)
+
+---Current stock after production---
+Table WR-mahogany-k4m6 - Mahogany, 23.62 kg, 120x190x60 cm, 3 doors with mirror: 218500 HUF (7 available)
+Chair CH-cedar-3214 - Cedar, 1.23 kg, 60x60x50 cm, short-round style: 16000 HUF (8 available)
+Table TB-pine-234k - Pine, 5.65 kg, 80x90x130 cm, 4 legs: 78000 HUF (4 available)
+Table TB-cherry-234k - Cherry, 4.65 kg, 100x800x180 cm, 6 adjustable legs: 112000 HUF (4 available)
+Chair CH-oak-x321 - Oak, 0.86 kg, 50x120x40 cm, long-back style: 25000 HUF (10 available)
+Table WR-pine-32k6 - Pine, 18.54 kg, 80x160x55 cm, 2 doors: 156500 HUF (6 available)
+

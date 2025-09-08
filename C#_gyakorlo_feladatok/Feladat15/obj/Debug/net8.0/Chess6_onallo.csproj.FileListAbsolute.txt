@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\bin\Debug\net8.0\Chess6_onallo.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\bin\Debug\net8.0\Chess6_onallo.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\bin\Debug\net8.0\Chess6_onallo.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\bin\Debug\net8.0\Chess6_onallo.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\bin\Debug\net8.0\Chess6_onallo.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\obj\Debug\net8.0\Chess6_onallo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\obj\Debug\net8.0\Chess6_onallo.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\obj\Debug\net8.0\Chess6_onallo.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\obj\Debug\net8.0\Chess6_onallo.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\obj\Debug\net8.0\Chess6_onallo.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\obj\Debug\net8.0\refint\Chess6_onallo.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\obj\Debug\net8.0\Chess6_onallo.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\obj\Debug\net8.0\Chess6_onallo.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Chess6_onallo_alapkod\Chess6_onallo_alapkod\obj\Debug\net8.0\ref\Chess6_onallo.dll

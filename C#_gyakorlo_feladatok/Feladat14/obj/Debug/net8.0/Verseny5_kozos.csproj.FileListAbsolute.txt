@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\bin\Debug\net8.0\Verseny5_kozos.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\bin\Debug\net8.0\Verseny5_kozos.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\bin\Debug\net8.0\Verseny5_kozos.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\bin\Debug\net8.0\Verseny5_kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\bin\Debug\net8.0\Verseny5_kozos.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\obj\Debug\net8.0\Verseny5_kozos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\obj\Debug\net8.0\Verseny5_kozos.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\obj\Debug\net8.0\Verseny5_kozos.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\obj\Debug\net8.0\Verseny5_kozos.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\obj\Debug\net8.0\Verseny5_kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\obj\Debug\net8.0\refint\Verseny5_kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\obj\Debug\net8.0\Verseny5_kozos.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\obj\Debug\net8.0\Verseny5_kozos.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\5_Verseny5_kozos_alapkod\Verseny5_kozos_alapkod\obj\Debug\net8.0\ref\Verseny5_kozos.dll

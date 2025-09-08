@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\babyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\babyproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\chair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\clothes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\clothes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\istock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\istock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\clothes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\clothes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\minta_stdout.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\minta_stdout.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\chairs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\chairs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\order3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\order3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\order1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\order1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\order2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\order2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\toys.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\toys.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\nagyzhpelda2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\nagyzhpelda2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\toys_out.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\toys_out.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\nagyzhpelda-2-alapkod\\nagyzhpelda2_alapkod\\nagyzhpelda2\\clothes_out.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFD63380-9CA7-41FC-800D-1891FEDF71A2}|NagyZhPelda2\\NagyZhPelda2.csproj|solutionrelative:nagyzhpelda2\\clothes_out.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "minta_stdout.txt",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\minta_stdout.txt",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\minta_stdout.txt",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\minta_stdout.txt",
+              "RelativeToolTip": "NagyZhPelda2\\minta_stdout.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-24T16:03:36.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStock.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\IStock.cs",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\IStock.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\IStock.cs",
+              "RelativeToolTip": "NagyZhPelda2\\IStock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:54:09.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Stock.cs",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\Stock.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Stock.cs",
+              "RelativeToolTip": "NagyZhPelda2\\Stock.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwGwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:52:55.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clothes.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Clothes.cs",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\Clothes.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Clothes.cs",
+              "RelativeToolTip": "NagyZhPelda2\\Clothes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:28:54.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "order1.json",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\order1.json",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\order1.json",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\order1.json",
+              "RelativeToolTip": "NagyZhPelda2\\order1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T07:26:51.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Toy.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Toy.cs",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\Toy.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Toy.cs",
+              "RelativeToolTip": "NagyZhPelda2\\Toy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:24:54.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Order.cs",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\Order.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Order.cs",
+              "RelativeToolTip": "NagyZhPelda2\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:29:51.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\OrderItem.cs",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\OrderItem.cs",
+              "RelativeToolTip": "NagyZhPelda2\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:34:22.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Program.cs",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\Program.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Program.cs",
+              "RelativeToolTip": "NagyZhPelda2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:59:12.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BabyProduct.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\BabyProduct.cs",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\BabyProduct.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\BabyProduct.cs",
+              "RelativeToolTip": "NagyZhPelda2\\BabyProduct.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:58:52.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chair.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Chair.cs",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\Chair.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\Chair.cs",
+              "RelativeToolTip": "NagyZhPelda2\\Chair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:21:45.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "order3.json",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\order3.json",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\order3.json",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\order3.json",
+              "RelativeToolTip": "NagyZhPelda2\\order3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T07:28:29.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "order2.json",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\order2.json",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\order2.json",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\order2.json",
+              "RelativeToolTip": "NagyZhPelda2\\order2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T07:28:25.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "chairs.json",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\chairs.json",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\chairs.json",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\chairs.json",
+              "RelativeToolTip": "NagyZhPelda2\\chairs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T21:48:54.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clothes.json",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\clothes.json",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\clothes.json",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\clothes.json",
+              "RelativeToolTip": "NagyZhPelda2\\clothes.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T15:06:25.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "toys.json",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\toys.json",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\toys.json",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\toys.json",
+              "RelativeToolTip": "NagyZhPelda2\\toys.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T15:07:23.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NagyZhPelda2",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\NagyZhPelda2.csproj",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\NagyZhPelda2.csproj",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\NagyZhPelda2.csproj",
+              "RelativeToolTip": "NagyZhPelda2\\NagyZhPelda2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T18:01:44.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "toys_out.json",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\toys_out.json",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\toys_out.json",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\toys_out.json",
+              "RelativeToolTip": "NagyZhPelda2\\toys_out.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T16:04:12.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clothes_out.json",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\clothes_out.json",
+              "RelativeDocumentMoniker": "NagyZhPelda2\\clothes_out.json",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\nagyzh p\u00E9lda-20250322\\NagyzhPelda-2-Alapkod\\NagyZhPelda2_alapkod\\NagyZhPelda2\\clothes_out.json",
+              "RelativeToolTip": "NagyZhPelda2\\clothes_out.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T16:02:09.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

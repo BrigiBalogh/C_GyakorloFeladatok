@@ -1,0 +1,14 @@
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\bin\Debug\net8.0\3.óra_közös_Person.exe
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\bin\Debug\net8.0\3.óra_közös_Person.deps.json
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\bin\Debug\net8.0\3.óra_közös_Person.runtimeconfig.json
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\bin\Debug\net8.0\3.óra_közös_Person.dll
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\bin\Debug\net8.0\3.óra_közös_Person.pdb
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\obj\Debug\net8.0\3.óra_közös_Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\obj\Debug\net8.0\3.óra_közös_Person.AssemblyInfoInputs.cache
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\obj\Debug\net8.0\3.óra_közös_Person.AssemblyInfo.cs
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\obj\Debug\net8.0\3.óra_közös_Person.csproj.CoreCompileInputs.cache
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\obj\Debug\net8.0\3.óra_közös_Person.dll
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\obj\Debug\net8.0\refint\3.óra_közös_Person.dll
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\obj\Debug\net8.0\3.óra_közös_Person.pdb
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\obj\Debug\net8.0\3.óra_közös_Person.genruntimeconfig.cache
+C:\Users\brigi\source\repos\3.óra_közös_Person\3.óra_közös_Person\obj\Debug\net8.0\ref\3.óra_közös_Person.dll

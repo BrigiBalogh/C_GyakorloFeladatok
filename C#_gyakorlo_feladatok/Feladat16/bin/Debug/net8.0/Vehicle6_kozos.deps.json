@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vehicle6_kozos/1.0.0": {
+        "runtime": {
+          "Vehicle6_kozos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vehicle6_kozos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

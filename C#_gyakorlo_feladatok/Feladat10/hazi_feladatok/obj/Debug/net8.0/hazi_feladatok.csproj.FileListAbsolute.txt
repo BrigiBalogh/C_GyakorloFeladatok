@@ -1,0 +1,14 @@
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\bin\Debug\net8.0\hazi_feladatok.exe
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\bin\Debug\net8.0\hazi_feladatok.deps.json
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\bin\Debug\net8.0\hazi_feladatok.runtimeconfig.json
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\bin\Debug\net8.0\hazi_feladatok.dll
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\bin\Debug\net8.0\hazi_feladatok.pdb
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\obj\Debug\net8.0\hazi_feladatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\obj\Debug\net8.0\hazi_feladatok.AssemblyInfoInputs.cache
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\obj\Debug\net8.0\hazi_feladatok.AssemblyInfo.cs
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\obj\Debug\net8.0\hazi_feladatok.csproj.CoreCompileInputs.cache
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\obj\Debug\net8.0\hazi_feladatok.dll
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\obj\Debug\net8.0\refint\hazi_feladatok.dll
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\obj\Debug\net8.0\hazi_feladatok.pdb
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\obj\Debug\net8.0\hazi_feladatok.genruntimeconfig.cache
+C:\Users\brigi\source\repos\hazi_feladatok\hazi_feladatok\obj\Debug\net8.0\ref\hazi_feladatok.dll

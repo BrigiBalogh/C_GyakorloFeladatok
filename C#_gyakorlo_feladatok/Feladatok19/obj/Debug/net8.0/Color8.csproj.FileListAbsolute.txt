@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\bin\Debug\net8.0\Color8.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\bin\Debug\net8.0\Color8.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\bin\Debug\net8.0\Color8.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\bin\Debug\net8.0\Color8.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\bin\Debug\net8.0\Color8.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\obj\Debug\net8.0\Color8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\obj\Debug\net8.0\Color8.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\obj\Debug\net8.0\Color8.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\obj\Debug\net8.0\Color8.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\obj\Debug\net8.0\Color8.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\obj\Debug\net8.0\refint\Color8.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\obj\Debug\net8.0\Color8.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\obj\Debug\net8.0\Color8.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\8_Color8_alapkod\Color8\obj\Debug\net8.0\ref\Color8.dll

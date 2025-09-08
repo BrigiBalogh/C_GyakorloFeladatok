@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\obj\Debug\net8.0\NagyZhPelda2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\obj\Debug\net8.0\NagyZhPelda2.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\obj\Debug\net8.0\NagyZhPelda2.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\obj\Debug\net8.0\NagyZhPelda2.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\bin\Debug\net8.0\NagyZhPelda2.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\bin\Debug\net8.0\NagyZhPelda2.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\bin\Debug\net8.0\NagyZhPelda2.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\bin\Debug\net8.0\NagyZhPelda2.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\bin\Debug\net8.0\NagyZhPelda2.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\obj\Debug\net8.0\NagyZhPelda2.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\obj\Debug\net8.0\refint\NagyZhPelda2.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\obj\Debug\net8.0\NagyZhPelda2.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\obj\Debug\net8.0\NagyZhPelda2.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-2-Alapkod\NagyZhPelda2_alapkod\NagyZhPelda2\obj\Debug\net8.0\ref\NagyZhPelda2.dll

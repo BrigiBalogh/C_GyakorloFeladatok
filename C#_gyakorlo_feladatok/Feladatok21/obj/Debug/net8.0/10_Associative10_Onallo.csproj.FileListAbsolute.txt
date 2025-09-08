@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\bin\Debug\net8.0\10_Associative10_Onallo.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\bin\Debug\net8.0\10_Associative10_Onallo.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\bin\Debug\net8.0\10_Associative10_Onallo.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\bin\Debug\net8.0\10_Associative10_Onallo.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\bin\Debug\net8.0\10_Associative10_Onallo.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\obj\Debug\net8.0\10_Associative10_Onallo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\obj\Debug\net8.0\10_Associative10_Onallo.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\obj\Debug\net8.0\10_Associative10_Onallo.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\obj\Debug\net8.0\10_Associative10_Onallo.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\obj\Debug\net8.0\10_Associative10_Onallo.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\obj\Debug\net8.0\refint\10_Associative10_Onallo.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\obj\Debug\net8.0\10_Associative10_Onallo.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\obj\Debug\net8.0\10_Associative10_Onallo.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Associative10_Onallo_alapkod\10_Associative10_Onallo\obj\Debug\net8.0\ref\10_Associative10_Onallo.dll

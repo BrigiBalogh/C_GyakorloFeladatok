@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brigi\\Documents\\4_VAT4_kozos_alapkod\\VAT4_kozos_alapkod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E4DCC-3F79-4A4D-B8FD-59E044534A33}|VAT4_kozos.csproj|c:\\users\\brigi\\documents\\4_vat4_kozos_alapkod\\vat4_kozos_alapkod\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E4DCC-3F79-4A4D-B8FD-59E044534A33}|VAT4_kozos.csproj|solutionrelative:goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E4DCC-3F79-4A4D-B8FD-59E044534A33}|VAT4_kozos.csproj|c:\\users\\brigi\\documents\\4_vat4_kozos_alapkod\\vat4_kozos_alapkod\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E4DCC-3F79-4A4D-B8FD-59E044534A33}|VAT4_kozos.csproj|solutionrelative:food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E4DCC-3F79-4A4D-B8FD-59E044534A33}|VAT4_kozos.csproj|c:\\users\\brigi\\documents\\4_vat4_kozos_alapkod\\vat4_kozos_alapkod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7E4DCC-3F79-4A4D-B8FD-59E044534A33}|VAT4_kozos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7E4DCC-3F79-4A4D-B8FD-59E044534A33}|VAT4_kozos.csproj|c:\\users\\brigi\\documents\\4_vat4_kozos_alapkod\\vat4_kozos_alapkod\\vat4_kozos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D7E4DCC-3F79-4A4D-B8FD-59E044534A33}|VAT4_kozos.csproj|solutionrelative:vat4_kozos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\4_VAT4_kozos_alapkod\\VAT4_kozos_alapkod\\Food.cs",
+              "RelativeDocumentMoniker": "Food.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\4_VAT4_kozos_alapkod\\VAT4_kozos_alapkod\\Food.cs",
+              "RelativeToolTip": "Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:57:50.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VAT4_kozos.csproj",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\4_VAT4_kozos_alapkod\\VAT4_kozos_alapkod\\VAT4_kozos.csproj",
+              "RelativeDocumentMoniker": "VAT4_kozos.csproj",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\4_VAT4_kozos_alapkod\\VAT4_kozos_alapkod\\VAT4_kozos.csproj",
+              "RelativeToolTip": "VAT4_kozos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T17:51:10.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\4_VAT4_kozos_alapkod\\VAT4_kozos_alapkod\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\4_VAT4_kozos_alapkod\\VAT4_kozos_alapkod\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:51:10.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Goods.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\4_VAT4_kozos_alapkod\\VAT4_kozos_alapkod\\Goods.cs",
+              "RelativeDocumentMoniker": "Goods.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\4_VAT4_kozos_alapkod\\VAT4_kozos_alapkod\\Goods.cs",
+              "RelativeToolTip": "Goods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:51:10.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

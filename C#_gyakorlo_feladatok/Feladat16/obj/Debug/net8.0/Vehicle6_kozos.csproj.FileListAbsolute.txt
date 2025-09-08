@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\bin\Debug\net8.0\Vehicle6_kozos.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\bin\Debug\net8.0\Vehicle6_kozos.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\bin\Debug\net8.0\Vehicle6_kozos.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\bin\Debug\net8.0\Vehicle6_kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\bin\Debug\net8.0\Vehicle6_kozos.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\obj\Debug\net8.0\Vehicle6_kozos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\obj\Debug\net8.0\Vehicle6_kozos.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\obj\Debug\net8.0\Vehicle6_kozos.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\obj\Debug\net8.0\Vehicle6_kozos.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\obj\Debug\net8.0\Vehicle6_kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\obj\Debug\net8.0\refint\Vehicle6_kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\obj\Debug\net8.0\Vehicle6_kozos.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\obj\Debug\net8.0\Vehicle6_kozos.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\6_Vehicle6_kozos_alapkod\Vehicle6_kozos_alapkod\obj\Debug\net8.0\ref\Vehicle6_kozos.dll

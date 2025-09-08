@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\bin\Debug\net9.0\NumberLine3.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\bin\Debug\net9.0\NumberLine3.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\bin\Debug\net9.0\NumberLine3.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\bin\Debug\net9.0\NumberLine3.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\bin\Debug\net9.0\NumberLine3.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\obj\Debug\net9.0\NumberLine3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\obj\Debug\net9.0\NumberLine3.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\obj\Debug\net9.0\NumberLine3.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\obj\Debug\net9.0\NumberLine3.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\obj\Debug\net9.0\NumberLine3.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\obj\Debug\net9.0\refint\NumberLine3.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\obj\Debug\net9.0\NumberLine3.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\obj\Debug\net9.0\NumberLine3.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\3_Ora_Onallo_NumberLine3_alapkod\NumberLine3_alapkod\obj\Debug\net9.0\ref\NumberLine3.dll

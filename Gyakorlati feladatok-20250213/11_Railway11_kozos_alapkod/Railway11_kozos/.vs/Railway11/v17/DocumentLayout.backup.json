@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\gyakorlati feladatok-20250213\\11_railway11_kozos_alapkod\\railway11_kozos\\railway11\\trainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|solutionrelative:railway11\\trainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\gyakorlati feladatok-20250213\\11_railway11_kozos_alapkod\\railway11_kozos\\railway11\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|solutionrelative:railway11\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\gyakorlati feladatok-20250213\\11_railway11_kozos_alapkod\\railway11_kozos\\railway11\\trainset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|solutionrelative:railway11\\trainset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\gyakorlati feladatok-20250213\\11_railway11_kozos_alapkod\\railway11_kozos\\railway11\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|solutionrelative:railway11\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\gyakorlati feladatok-20250213\\11_railway11_kozos_alapkod\\railway11_kozos\\railway11\\passengercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|solutionrelative:railway11\\passengercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\gyakorlati feladatok-20250213\\11_railway11_kozos_alapkod\\railway11_kozos\\railway11\\freightcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|solutionrelative:railway11\\freightcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|c:\\users\\brigi\\documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\gyakorlati feladatok-20250213\\11_railway11_kozos_alapkod\\railway11_kozos\\railway11\\railway11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC2C772D-9054-40C3-ADDF-04F3AB455E44}|Railway11\\Railway11.csproj|solutionrelative:railway11\\railway11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainSet.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\TrainSet.cs",
+              "RelativeDocumentMoniker": "Railway11\\TrainSet.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\TrainSet.cs",
+              "RelativeToolTip": "Railway11\\TrainSet.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:36:43.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainManager.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\TrainManager.cs",
+              "RelativeDocumentMoniker": "Railway11\\TrainManager.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\TrainManager.cs",
+              "RelativeToolTip": "Railway11\\TrainManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:11:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PassengerCar.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\PassengerCar.cs",
+              "RelativeDocumentMoniker": "Railway11\\PassengerCar.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\PassengerCar.cs",
+              "RelativeToolTip": "Railway11\\PassengerCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:35:56.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FreightCar.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\FreightCar.cs",
+              "RelativeDocumentMoniker": "Railway11\\FreightCar.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\FreightCar.cs",
+              "RelativeToolTip": "Railway11\\FreightCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:30:49.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Railway11",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\Railway11.csproj",
+              "RelativeDocumentMoniker": "Railway11\\Railway11.csproj",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\Railway11.csproj",
+              "RelativeToolTip": "Railway11\\Railway11.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T19:16:49.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\Engine.cs",
+              "RelativeDocumentMoniker": "Railway11\\Engine.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\Engine.cs",
+              "RelativeToolTip": "Railway11\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:17:09.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Railway11\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Gyakorlati feladatok-20250213\\11_Railway11_kozos_alapkod\\Railway11_kozos\\Railway11\\Vehicle.cs",
+              "RelativeToolTip": "Railway11\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:54:00.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

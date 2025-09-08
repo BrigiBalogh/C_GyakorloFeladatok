@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\bin\Debug\net8.0\Warehouse_10_kozos.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\bin\Debug\net8.0\Warehouse_10_kozos.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\bin\Debug\net8.0\Warehouse_10_kozos.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\bin\Debug\net8.0\Warehouse_10_kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\bin\Debug\net8.0\Warehouse_10_kozos.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\obj\Debug\net8.0\Warehouse_10_kozos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\obj\Debug\net8.0\Warehouse_10_kozos.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\obj\Debug\net8.0\Warehouse_10_kozos.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\obj\Debug\net8.0\Warehouse_10_kozos.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\obj\Debug\net8.0\Warehouse_10_kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\obj\Debug\net8.0\refint\Warehouse_10_kozos.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\obj\Debug\net8.0\Warehouse_10_kozos.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\obj\Debug\net8.0\Warehouse_10_kozos.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\10_Warehouse_10_kozos_alapkod\Warehouse_10_kozos_alapkod\Warehouse_10_kozos\obj\Debug\net8.0\ref\Warehouse_10_kozos.dll

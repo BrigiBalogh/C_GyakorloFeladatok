@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "9876",
+    "Name": "Sugar",
+    "Quantity": 46.8
+  },
+  {
+    "Id": "5432",
+    "Name": "Fluor",
+    "Quantity": 39.41
+  },
+  {
+    "Id": "1098",
+    "Name": "Salt",
+    "Quantity": 72.925
+  }
+]

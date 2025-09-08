@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NagyzhPelda/1.0.0": {
+        "runtime": {
+          "NagyzhPelda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NagyzhPelda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

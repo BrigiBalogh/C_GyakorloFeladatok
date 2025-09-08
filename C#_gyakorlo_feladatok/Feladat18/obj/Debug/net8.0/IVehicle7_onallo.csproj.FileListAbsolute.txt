@@ -1,0 +1,17 @@
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\bin\Debug\net8.0\IVehicle7_onallo.exe
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\bin\Debug\net8.0\IVehicle7_onallo.deps.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\bin\Debug\net8.0\IVehicle7_onallo.runtimeconfig.json
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\bin\Debug\net8.0\IVehicle7_onallo.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\bin\Debug\net8.0\IVehicle7_onallo.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\IVehicle7_onallo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\IVehicle7_onallo.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\IVehicle7_onallo.AssemblyInfo.cs
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\IVehicle7_onallo.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\IVehicle7_onallo.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\refint\IVehicle7_onallo.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\IVehicle7_onallo.pdb
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\IVehicle7_onallo.genruntimeconfig.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\ref\IVehicle7_onallo.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\IVehicle7_onallo.csproj.AssemblyReference.cache
+C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\Gyakorlati feladatok-20250213\7_IVehicle7_onallo_alapkod\IVehicle7_onallo_alapkod\obj\Debug\net8.0\IVehicle.26EC8A3D.Up2Date

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IAudio7_kozos/1.0.0": {
+        "runtime": {
+          "IAudio7_kozos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IAudio7_kozos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

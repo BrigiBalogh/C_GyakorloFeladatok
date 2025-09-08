@@ -1,0 +1,36 @@
+﻿[
+  {
+    "Type": "Monthly",
+    "Value": 2500,
+    "Year": 2024,
+    "Month": 1
+  },
+  {
+    "Type": "Single use",
+    "Value": 1200
+  },
+  {
+    "Type": "Single use",
+    "Value": 5000
+  },
+  {
+    "Type": "Multiple use",
+    "Value": 1000,
+    "TotalUses": 2
+  },
+  {
+    "Type": "Multiple use",
+    "Value": 1500,
+    "TotalUses": 3
+  },
+  {
+    "Type": "Multiple use",
+    "Value": 500,
+    "TotalUses": 5
+  },
+  {
+    "Type": "Multiple use",
+    "Value": 750,
+    "TotalUses": 12
+  }
+]

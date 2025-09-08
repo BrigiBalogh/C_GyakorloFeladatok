@@ -1,0 +1,14 @@
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\bin\Debug\net8.0\VAT4_kozos.exe
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\bin\Debug\net8.0\VAT4_kozos.deps.json
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\bin\Debug\net8.0\VAT4_kozos.runtimeconfig.json
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\bin\Debug\net8.0\VAT4_kozos.dll
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\bin\Debug\net8.0\VAT4_kozos.pdb
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\obj\Debug\net8.0\VAT4_kozos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\obj\Debug\net8.0\VAT4_kozos.AssemblyInfoInputs.cache
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\obj\Debug\net8.0\VAT4_kozos.AssemblyInfo.cs
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\obj\Debug\net8.0\VAT4_kozos.csproj.CoreCompileInputs.cache
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\obj\Debug\net8.0\VAT4_kozos.dll
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\obj\Debug\net8.0\refint\VAT4_kozos.dll
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\obj\Debug\net8.0\VAT4_kozos.pdb
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\obj\Debug\net8.0\VAT4_kozos.genruntimeconfig.cache
+C:\Users\brigi\Documents\4_VAT4_kozos_alapkod\VAT4_kozos_alapkod\obj\Debug\net8.0\ref\VAT4_kozos.dll

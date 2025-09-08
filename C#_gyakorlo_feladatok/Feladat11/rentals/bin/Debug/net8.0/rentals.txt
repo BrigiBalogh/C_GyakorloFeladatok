@@ -1,0 +1,6 @@
+Kiss Anna;Szépirodalom;2024-05-02
+Nagy Péter;Tudomány;2024-05-03
+Kiss Anna;Szépirodalom;2024-06-12
+Kovács Éva;Ifjúsági;2024-06-13
+Nagy Péter;Tudomány;2024-06-14 
+Balogh Brigi;regény;2025-06-17

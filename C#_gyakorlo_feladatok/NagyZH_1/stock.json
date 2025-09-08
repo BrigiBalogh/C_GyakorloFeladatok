@@ -1,0 +1,112 @@
+﻿{
+  "Products": [
+    {
+      "Type": "Chair",
+      "Id": "CH-oak-x321",
+      "WoodType": "Oak",
+      "Weight": 0.86,
+      "Dimensions": {
+        "Width": 50,
+        "Height": 120,
+        "Length": 40
+      },
+      "Price": 25000,
+      "Style": "long-back"
+    },
+    {
+      "Type": "Table",
+      "Id": "TB-pine-234k",
+      "WoodType": "Pine",
+      "Weight": 5.65,
+      "Dimensions": {
+        "Width": 80,
+        "Height": 90,
+        "Length": 130
+      },
+      "Price": 78000,
+      "LegCount": 4,
+      "LegsAdjustable": false
+    },
+    {
+      "Type": "Wardrobe",
+      "Id": "WR-mahogany-k4m6",
+      "WoodType": "Mahogany",
+      "Weight": 23.62,
+      "Dimensions": {
+        "Width": 120,
+        "Height": 190,
+        "Length": 60
+      },
+      "Price": 218500,
+      "DoorCount": 3,
+      "HasMirror": true
+    },
+    {
+      "Type": "Wardrobe",
+      "Id": "WR-pine-32k6",
+      "WoodType": "Pine",
+      "Weight": 18.54,
+      "Dimensions": {
+        "Width": 80,
+        "Height": 160,
+        "Length": 55
+      },
+      "Price": 156500,
+      "DoorCount": 2,
+      "HasMirror": false
+    },
+    {
+      "Type": "Chair",
+      "Id": "CH-cedar-3214",
+      "WoodType": "Cedar",
+      "Weight": 1.23,
+      "Dimensions": {
+        "Width": 60,
+        "Height": 60,
+        "Length": 50
+      },
+      "Price": 16000,
+      "Style": "short-round"
+    },
+    {
+      "Type": "Table",
+      "Id": "TB-cherry-234k",
+      "WoodType": "Cherry",
+      "Weight": 4.65,
+      "Dimensions": {
+        "Width": 100,
+        "Height": 800,
+        "Length": 180
+      },
+      "Price": 112000,
+      "LegCount": 6,
+      "LegsAdjustable": true
+    }
+  ],
+  "Stock": [
+    {
+      "ProductId": "WR-mahogany-k4m6",
+      "Quantity": 3
+    },
+    {
+      "ProductId": "CH-cedar-3214",
+      "Quantity": 12
+    },
+    {
+      "ProductId": "TB-pine-234k",
+      "Quantity": 6
+    },
+    {
+      "ProductId": "TB-cherry-234k",
+      "Quantity": 3
+    },
+    {
+      "ProductId": "CH-oak-x321",
+      "Quantity": 12
+    },
+    {
+      "ProductId": "WR-pine-32k6",
+      "Quantity": 6
+    }
+  ]
+}

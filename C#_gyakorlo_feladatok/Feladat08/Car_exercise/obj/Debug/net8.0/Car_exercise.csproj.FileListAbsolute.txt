@@ -1,0 +1,15 @@
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\bin\Debug\net8.0\cars.json
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\bin\Debug\net8.0\Car_exercise.exe
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\bin\Debug\net8.0\Car_exercise.deps.json
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\bin\Debug\net8.0\Car_exercise.runtimeconfig.json
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\bin\Debug\net8.0\Car_exercise.dll
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\bin\Debug\net8.0\Car_exercise.pdb
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\obj\Debug\net8.0\Car_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\obj\Debug\net8.0\Car_exercise.AssemblyInfoInputs.cache
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\obj\Debug\net8.0\Car_exercise.AssemblyInfo.cs
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\obj\Debug\net8.0\Car_exercise.csproj.CoreCompileInputs.cache
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\obj\Debug\net8.0\Car_exercise.dll
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\obj\Debug\net8.0\refint\Car_exercise.dll
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\obj\Debug\net8.0\Car_exercise.pdb
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\obj\Debug\net8.0\Car_exercise.genruntimeconfig.cache
+C:\Users\brigi\source\repos\Car_exercise\Car_exercise\obj\Debug\net8.0\ref\Car_exercise.dll

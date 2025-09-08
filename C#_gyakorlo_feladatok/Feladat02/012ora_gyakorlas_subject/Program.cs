@@ -1,0 +1,159 @@
+﻿using System;
+using System.ComponentModel.Design;
+using System.Linq;
+using _01_ora_gyakorlas_subject;
+
+
+
+namespace _01_ora_gyakorlas_subject
+{
+
+    class Program
+    {
+        static void Main()
+        {
+            Subject[] subjects = new Subject[3];
+            // Adatok bekérése a felhasználótól
+            for (int i = 0; i < 3; i++)
+            {
+                Console.Write($"Enter subject code for subject {i + 1}: ");
+                string code = Console.ReadLine() ?? string.Empty;
+
+                Console.Write("Enter the number of grades: ");
+                string input = Console.ReadLine() ?? string.Empty;
+                if (!string.IsNullOrEmpty(input) && int.TryParse(input, out int numberOfGrades))
+                {
+                    uint[] grades = new uint[numberOfGrades];
+
+                    for (int j = 0; j < numberOfGrades; j++)
+                    {
+                        Console.Write($"Enter grade {j + 1}: ");
+                        string gradeInput = Console.ReadLine() ?? string.Empty;
+
+                        if (!string.IsNullOrEmpty(gradeInput) && uint.TryParse(gradeInput, out uint grade))
+                        {
+                            grades[j] = grade;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Invalid grade. Setting grade to 0.");
+                            grades[j] = 0;
+                        }
+                    }
+                    subjects[i] = new Subject(code, grades);
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input for the number of grades.");
+                    i--;  // Visszaléptetjük a ciklust, hogy újra bekérjük az adatokat
+                }
+            }
+            PrintSubjects(subjects);
+
+            Console.WriteLine("\nAverage grades for each subject: ");
+            foreach (var subject in subjects)
+            {
+                if (subject != null)
+                {
+                    Console.WriteLine($"Subject: {subject.GetSubjectCode()}, Average grade: {subject.GetAverageGrade(): F2}");
+                }
+
+            }
+
+            //Subject subjectWithHighestAverage = subjects.OrderByDescending(s => s.GetAverageGrade()).First();
+            //Console.WriteLine($"\nSubject with highest average:\n {subjectWithHighestAverage.GetFormattedData()}");
+
+            Subject subjectWithHighestAverage = subjects[0];
+            double highestAverage = subjects[0].GetAverageGrade();
+            for (int i = 1; i < subjects.Length; i++)
+            {
+                double currentAverage = subjects[i].GetAverageGrade();
+                if (currentAverage > highestAverage)
+                {
+                    highestAverage = currentAverage;
+                    subjectWithHighestAverage = subjects[i];
+                }
+            }
+            Console.WriteLine($"\nSubject with the highest average:\n{subjectWithHighestAverage.GetFormattedData()}");
+            Console.WriteLine("\nAdding grade 4 to each subject...");
+            foreach (var subject in subjects)
+            {
+                subject.AddGrade(4);
+                Console.WriteLine($"{subject.GetSubjectCode}:New Average = {subject.GetAverageGrade():F2}");
+            }
+
+
+            Console.WriteLine("\nGrade occurrences per subject: ");
+            foreach (var subject in subjects)
+            {
+                Console.WriteLine($"\nSubject: {subject.GetSubjectCode()}");
+                for (uint grade = 1; grade <= 5; grade++)
+                {
+                    int occurrences = subject.CountGradeOccurrences(grade);
+                    Console.WriteLine($"grade: {grade}: {occurrences} occurrences");
+                }
+            }
+
+
+            Subject subjectWithMostFails = subjects[0];
+            int mostFails = subjects[0].CountGradeOccurrences(1);
+            for (int i = 0; i < subjects.Length; i++)
+            {
+                int currentsFails = subjects[i].CountGradeOccurrences(1);
+                if (currentsFails > mostFails)
+                {
+                    mostFails = currentsFails;
+                    subjectWithMostFails = subjects[i];
+                }
+            }
+            Console.WriteLine($"\nSubject with the most failing grades:\n{subjectWithMostFails.GetFormattedData()}");
+        }
+        static void PrintSubjects(Subject[] subjects)
+        {
+            Console.WriteLine("\nSubjects data: ");
+            foreach (var subject in subjects)
+            {
+                if (subject != null)
+                {
+                    Console.WriteLine(subject.GetFormattedData());
+                }
+                else
+                {
+                    Console.WriteLine("No data for this subject.");
+                }
+            }
+        }
+
+
+    }
+}
+//var subjectWithMostFails = subjects.OrderByDescending(s => s.CountGradeOccurrences(1)).First();
+//Console.WriteLine($"\nSubject with the most failing grades:\n{subjectWithMostFails.GetFormattedData()}");
+//    }
+
+
+
+//• Készíts egy Subject nevű osztályt, amely tantárgy eredményeit tárolja:
+//o Tárgy kódja: szöveg
+//o Jegyek: előjel nélküli egészek tömbje
+//• Mindegyik adattag legyen private.
+//• A program tárolja fixen 3 tárgy eredményeit.
+//• Olvasd be a tárgyak adatait. Minden tárgyhoz külön be kell kérni a jegyek számát, majd bekérni a
+//jegyeket is. A tárgy kódját a konstruktor állítsa be és property használatával legyen olvasható. A
+//jegyek tömbjét is a konstruktornak kell átadni, de ahhoz ne legyen property.
+//• A Subject osztályba készíts egy függvényt, amely formázott szövegként visszatér a tantárgy
+//adataival. Készíts a Program osztályba egy függvényt, amely az egyes tárgyak adatait kiírja ezen
+//metódusuk meghívásával.
+//• Készíts egy függvényt a Subject osztályba, amely visszaadja a tantárgy jegyeinek átlagát. A Main
+//függvényben írasd ki ennek a függvénynek a segítségével a tantárgyak jegyeinek átlagait.
+//• Az előző függvény segítségével keresd meg azt a tantárgyat, ahol az átlag a legmagasabb, és
+//jelenítsd meg az adatait.
+//• Készíts egy függvényt a Subject osztályba, amely paraméterben egy új jegyet vár, és ezt
+//hozzáfűzi a jegyek tömbhöz. A Main függvényben minden tantárgyhoz adjon hozzá egy 4-es
+//érdemjegyet, majd a Subject osztály megfelelő tagfüggvénye segítségével újra írasd ki a konzolra
+//a tantárgyak új átlagait. Figyelj a jegyeket tároló tömb property-jére!
+//• Készíts egy függvényt a Subject osztályba, amely paraméterben egy jegyet vár, és megszámolja,
+//hogy az adott tantárgyon hány olyan eredmény született, mint amit paraméterben megkapott. A
+//függvény a darabszámmal térjen vissza. A Main függvényből minden tantárgy esetén írassa ki,
+//hogy hány 1-es, 2-es, 3-as, 4-es és 5-ös érdemjegy született.
+//• A Main függvényben írassa ki azt a tantárgyat, amelyen a legtöbb bukás született.

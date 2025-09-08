@@ -1,0 +1,4 @@
+C:\Users\brigi\source\repos\01_ora_gyakorlas_subject\01_ora_gyakorlas_subject\obj\Debug\net8.0\01_ora_gyakorlas_subject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\source\repos\01_ora_gyakorlas_subject\01_ora_gyakorlas_subject\obj\Debug\net8.0\01_ora_gyakorlas_subject.AssemblyInfoInputs.cache
+C:\Users\brigi\source\repos\01_ora_gyakorlas_subject\01_ora_gyakorlas_subject\obj\Debug\net8.0\01_ora_gyakorlas_subject.AssemblyInfo.cs
+C:\Users\brigi\source\repos\01_ora_gyakorlas_subject\01_ora_gyakorlas_subject\obj\Debug\net8.0\01_ora_gyakorlas_subject.csproj.CoreCompileInputs.cache

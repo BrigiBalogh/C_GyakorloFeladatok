@@ -1,0 +1,14 @@
+C:\Users\brigi\source\repos\rentals\rentals\bin\Debug\net8.0\rentals.exe
+C:\Users\brigi\source\repos\rentals\rentals\bin\Debug\net8.0\rentals.deps.json
+C:\Users\brigi\source\repos\rentals\rentals\bin\Debug\net8.0\rentals.runtimeconfig.json
+C:\Users\brigi\source\repos\rentals\rentals\bin\Debug\net8.0\rentals.dll
+C:\Users\brigi\source\repos\rentals\rentals\bin\Debug\net8.0\rentals.pdb
+C:\Users\brigi\source\repos\rentals\rentals\obj\Debug\net8.0\rentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brigi\source\repos\rentals\rentals\obj\Debug\net8.0\rentals.AssemblyInfoInputs.cache
+C:\Users\brigi\source\repos\rentals\rentals\obj\Debug\net8.0\rentals.AssemblyInfo.cs
+C:\Users\brigi\source\repos\rentals\rentals\obj\Debug\net8.0\rentals.csproj.CoreCompileInputs.cache
+C:\Users\brigi\source\repos\rentals\rentals\obj\Debug\net8.0\rentals.dll
+C:\Users\brigi\source\repos\rentals\rentals\obj\Debug\net8.0\refint\rentals.dll
+C:\Users\brigi\source\repos\rentals\rentals\obj\Debug\net8.0\rentals.pdb
+C:\Users\brigi\source\repos\rentals\rentals\obj\Debug\net8.0\rentals.genruntimeconfig.cache
+C:\Users\brigi\source\repos\rentals\rentals\obj\Debug\net8.0\ref\rentals.dll

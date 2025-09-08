@@ -1,0 +1,43 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _01_ora_gyakorlas_subject
+{
+    public class Subject
+    {
+       
+
+            private string subjectCode;
+            private uint[] grades;
+
+
+        public Subject(string subjectCode, uint[] grades)
+        {
+            this.subjectCode = subjectCode;
+            this.grades = grades;
+        }
+
+        public string GetSubjectCode()
+            {
+                return subjectCode;
+            }
+
+            //public string SubjectCode => subjectCode;
+
+          
+
+            public string GetFormattedData()
+            {
+                return $"Subject Code: {subjectCode}, Grades: {string.Join(", ", grades)}";
+            } 
+
+        public double GetAverageGrade()
+        {
+            return grades.Select(g => (double)g).Average();
+        }
+
+        }
+    }

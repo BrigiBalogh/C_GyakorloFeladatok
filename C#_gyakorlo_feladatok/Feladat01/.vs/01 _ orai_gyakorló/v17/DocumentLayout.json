@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Oraifeladatok\\Feladat01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{911B8292-0E07-4BC1-81C6-404DF7A45D4D}|01 _ orai_gyakorl\u00F3\\01 _ orai_gyakorl\u00F3.vcxproj|C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Oraifeladatok\\Feladat01\\01 _ orai_gyakorl\u00F3\\01 _ orai_gyakorl\u00F3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{911B8292-0E07-4BC1-81C6-404DF7A45D4D}|01 _ orai_gyakorl\u00F3\\01 _ orai_gyakorl\u00F3.vcxproj|solutionrelative:01 _ orai_gyakorl\u00F3\\01 _ orai_gyakorl\u00F3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01 _ orai_gyakorl\u00F3.cpp",
+              "DocumentMoniker": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Oraifeladatok\\Feladat01\\01 _ orai_gyakorl\u00F3\\01 _ orai_gyakorl\u00F3.cpp",
+              "RelativeDocumentMoniker": "01 _ orai_gyakorl\u00F3\\01 _ orai_gyakorl\u00F3.cpp",
+              "ToolTip": "C:\\Users\\brigi\\Documents\\\u0027c#\u0027_gyakorl\u00E1s_feladatok\\Oraifeladatok\\Feladat01\\01 _ orai_gyakorl\u00F3\\01 _ orai_gyakorl\u00F3.cpp",
+              "RelativeToolTip": "01 _ orai_gyakorl\u00F3\\01 _ orai_gyakorl\u00F3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-08T21:22:39.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

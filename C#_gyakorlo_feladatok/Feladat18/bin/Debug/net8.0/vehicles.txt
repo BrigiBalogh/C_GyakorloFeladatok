@@ -1,0 +1,2 @@
+Car,Toyota,120
+Truck,Volvo,5000

@@ -1,0 +1,11 @@
+Verseny1
+Anita 35,91 True
+Bea 40,17 True
+Csilla 39,93 True
+Diana 36,98 True
+Emma 37,11 True
+Emma 39,22 False
+Diana 37,12 True
+Anita 38,88 False
+Anita 35,92 True
+Csilla 38,5 False
