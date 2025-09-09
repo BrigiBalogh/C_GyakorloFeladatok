@@ -48,5 +48,5 @@ A projektek Visual Studio-ban vagy más C# fejlesztőkörnyezetben futtathatók.
 
 ---
 
-## 📌 Megjegyzés
+## Megjegyzés
 Ez egy tanulási célú gyűjtemény, az órákon és önállóan megoldott feladatok rendszerezett tárolására szolgál.
