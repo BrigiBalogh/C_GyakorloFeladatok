@@ -1,4 +1,0 @@
-C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-3-Alapkod\NagyzhPelda3\obj\Debug\net8.0\NagyzhPelda3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-3-Alapkod\NagyzhPelda3\obj\Debug\net8.0\NagyzhPelda3.AssemblyInfoInputs.cache
-C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-3-Alapkod\NagyzhPelda3\obj\Debug\net8.0\NagyzhPelda3.AssemblyInfo.cs
-C:\Users\brigi\Documents\'c#'_gyakorlás_feladatok\nagyzh példa-20250322\NagyzhPelda-3-Alapkod\NagyzhPelda3\obj\Debug\net8.0\NagyzhPelda3.csproj.CoreCompileInputs.cache
